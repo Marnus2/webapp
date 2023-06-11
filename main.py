@@ -9,6 +9,11 @@ with col1:
 
 with col2:
     st.title("Marnus Lourens")
-    content = """
+    content = """ My name is Marnus Lourens. I am an aspiring software developer. I hold degrees in biochemistry but my
+    true passion is writing code to solve problems and minimize tedious repetitive work.
     """
     st.info(content)
+
+text1 = """Below you will be able to find some apps I have been working on
+"""
+st.write(text1)
